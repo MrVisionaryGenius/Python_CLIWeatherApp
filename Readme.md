@@ -48,24 +48,6 @@ The script displays the weather data, including the city name, temperature in Ce
 
 The execution of the script ends.
 
-## Using Github Copilot
-
-This project utilizes GitHub Copilot, an AI-powered coding assistant. Here are a few scenarios where GitHub Copilot can be helpful:
-
-API Integration: GitHub Copilot assisted us in integrating external APIs, like OpenWeatherMap, by suggesting the necessary code snippets for making requests and handling responses.
-
-![ScreenShot of Copilot Recommendation](Screenshots/ss1.jpeg)
-Here you can see that github copilot is suggesting me the code snippet for integrating params to fetch data from API
-
-Helping in Coversion of Temperatures:
-![ScreenShot of Copilot Recommendation](Screenshots/ss2.jpeg)
-![ScreenShot of Copilot Recommendation](Screenshots/ss3.jpeg)
-![ScreenShot of Copilot Recommendation](Screenshots/ss4.jpeg)
-
-Helping in Exception Handling:
-![ScreenShot of Copilot Recommendation](Screenshots/ss5.jpeg)
-![ScreenShot of Copilot Recommendation](Screenshots/ss6.jpeg)
-
 ## Final Output
 
 ![ScreenShot of Final OutPut](Screenshots/Final%20Output.jpeg)
