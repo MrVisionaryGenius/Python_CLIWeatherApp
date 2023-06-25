@@ -13,7 +13,7 @@ To run this script, you need the following:
 
 1. Clone the repository or download the script file.
    ```shell
-   git clone https://github.com/your-username/weather-forecast.git
+   git clone https://github.com/MrVisionaryGenius/Python_CLIWeatherApp
    ```
 2. Install the required dependencies.
    ```shell
